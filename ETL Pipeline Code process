@@ -7,7 +7,8 @@
 +---------------------+
 | Transform Data      |
 | (Cleaning & Feature |
-| Engineering)        |
+| Engineering)  
+| AWS Glue 
 +---------------------+
            |
            v
@@ -18,12 +19,13 @@
            |
            v
 +---------------------+
-| Train Models        |
-| (ML Training)       |
+|  Redshfit Data 
+ Visvisualization     |
+|      |              
 +---------------------+
            |
            v
 +---------------------+
-| Evaluate Models     |
-| (Performance Metrics)|
+| Dashboard           |
+|                     |
 +---------------------+
