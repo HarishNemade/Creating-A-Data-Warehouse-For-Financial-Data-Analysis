@@ -1,0 +1,29 @@
++---------------------+
+| Extract from S3     |
+| (Download Data)     |
++---------------------+
+           |
+           v
++---------------------+
+| Transform Data      |
+| (Cleaning & Feature |
+| Engineering)        |
++---------------------+
+           |
+           v
++---------------------+
+| Load to Redshift    |
+| (ETL Process)       |
++---------------------+
+           |
+           v
++---------------------+
+| Train Models        |
+| (ML Training)       |
++---------------------+
+           |
+           v
++---------------------+
+| Evaluate Models     |
+| (Performance Metrics)|
++---------------------+
